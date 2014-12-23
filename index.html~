@@ -43,9 +43,9 @@
 			    	loading();
 			   	}, time);
 				
-				/*var Avance function(){
+				var Avance function(){
 						<meta http-equiv="refresh" content=time;url="login.html"> 
-				}*/
+				}
 			});
 		</script>
 	</head>
