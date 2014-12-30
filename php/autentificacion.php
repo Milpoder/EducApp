@@ -1,7 +1,7 @@
 <? 
-	$conn = mysql_connect("mysql.hostinger.es","usuario","password"); 
-	mysql_select_db("u563240237_educa",$conn); 
-	$ssql = "SELECT * FROM usuario WHERE nombre_usuario='$usuario' and clave_usuario='$contrasena'"; 
+	$conn = mysql_connect("educapp.no-ip.info","usuario","password"); 
+	mysql_select_db("educa",$conn); 
+	$ssql = "SELECT * FROM usuario WHERE nombre_usuario='$usuario' and clave_usuario='$password'"; 
 	$rs = mysql_query($ssql,$conn); 
 	
 	if (mysql_num_rows($rs)!=0){ 
