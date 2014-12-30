@@ -1,10 +1,10 @@
 <? 
-	$conn = mysql_connect("educapp.no-ip.info","usuario","password"); 
-	mysql_select_db("educa",$conn); 
+	$conn = mysqli_connect("educapp.no-ip.info","usuario","password"); 
+	mysqli_select_db("educa",$conn); 
 	$ssql = "SELECT * FROM usuario WHERE nombre_usuario='$usuario' and clave_usuario='$password'"; 
-	$rs = mysql_query($ssql,$conn); 
+	$rs = mysqli_query($ssql,$conn); 
 	
-	if (mysql_num_rows($rs)!=0){ 
+	if (mysqli_num_rows($rs)!=0){ 
    		session_start(); 
    		session_register("autentificado"); 
    		$autentificado = "SI"; 
@@ -13,6 +13,6 @@
 	else { 
    		header("Location: index.php?errorusuario=si"); 
 	} 
-	mysql_free_result($rs); 
-	mysql_close($conn); 
+	mysqli_free_result($rs); 
+	mysqli_close($conn); 
 ?>
