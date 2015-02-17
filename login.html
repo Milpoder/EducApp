@@ -15,7 +15,8 @@
 					<td colspan="2" align="center" 
 						<?if ($_GET["errorusuario"]=="si"){?> 
 							<span style="color:ff000"><b>Datos incorrectos</b></span> 
-						<?}else{?> 
+						<?}else{?>
+							<?header("location:menu.html")?>
 						<?}?>
 				</td> 
 				</tr> 

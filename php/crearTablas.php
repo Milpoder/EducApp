@@ -1,11 +1,11 @@
 <?php
-$mysqli = new mysqli('localhost', 'root', 'contrasenia1234', 'educa');
+$mysqli = new mysqli('educapp.no-ip.info', 'admin', '1234', 'educa');
 
 if ($mysqli->connect_errno) {
     echo "Fallo al conectar a MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
 }
 
-$conexion = @mysqli_connect('localhost', 'root', 'contrasenia1234', 'educa');
+$conexion = @mysqli_connect('educapp.no-ip.info', 'admin', '1234', 'educa');
 if($conexion){
 	echo "Conectado a la base de datos!!!\n";
 }else{
