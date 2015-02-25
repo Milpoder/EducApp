@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"args"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"b",
+				"background-image"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"balc",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"hallo",
+				"halloSans"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"for",
+				"forin	for … in … done"
+			],
+			[
+				"ge",
+				"getGrado2"
+			],
+			[
+				"c",
+				"cout	cout"
+			],
+			[
+				"gl",
+				"glTranslatef"
+			],
+			[
+				"be",
+				"beethoven"
+			],
+			[
+				"dis",
+				"disminuirGrado1"
+			],
+			[
+				"aum",
+				"aumentarGrado1"
+			],
+			[
+				"gra",
+				"grado1"
+			],
+			[
+				"el",
+				"else 	Language Construct"
+			],
+			[
+				"spri",
+				"sprintf()	standard Function"
+			],
+			[
+				"ver",
+				"vertices"
+			],
+			[
+				"an",
+				"angulopolar3"
+			],
+			[
+				"den",
+				"dentroangulos"
+			],
+			[
+				"a",
+				"angulopolar1"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"MY",
+				"mysqli"
+			],
+			[
+				"g",
+				"guid"
+			],
+			[
+				"no",
+				"noticia"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"H",
+				"HotCold"
+			],
+			[
+				"T",
+				"Triangulos"
+			],
+			[
+				"_",
+				"_1"
+			],
+			[
+				"vert",
+				"vertices"
+			],
+			[
+				"si",
+				"size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1878,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/raul-alvarez/Apps/EducApp"
+	],
+	"file_history":
+	[
+		"/tmp/fz3temp-1/page-news.php",
+		"/tmp/fz3temp-1/functions.php",
+		"/tmp/fz3temp-1/pll-customizr.php",
+		"/tmp/fz3temp-1/style.css",
+		"/tmp/fz3temp-1/page-contact.php",
+		"/tmp/fz3temp-1/single.php",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-1/sidebar-left.php",
+		"/tmp/fz3temp-1/footer.php",
+		"/tmp/fz3temp-1/page-about.php",
+		"/tmp/fz3temp-1/login.php",
+		"/var/www/html/pmgtennis/wp-content/themes/pmgtennis/index.php",
+		"/var/www/html/sql.php",
+		"/var/www/html/pmgtennis/wp-content/themes/pmgtennis/footer.php",
+		"/var/www/html/pmgtennis/wp-content/themes/customizr/header.php",
+		"/var/www/html/pmgtennis/wp-content/themes/pmgtennis/style.css",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/IG/Practicas/practica4/practica1.cc",
+		"/home/raul-alvarez/Dropbox/EducApp/GitHub/EducApp/index.html",
+		"/home/raul-alvarez/Descargas/aerial/index.html",
+		"/home/raul-alvarez/Apps/RaulApp/config.xml",
+		"/home/raul-alvarez/Apps/RaulApp/www/index.html",
+		"/var/www/html/index.html",
+		"/home/raul-alvarez/Descargas/strata/index.html",
+		"/home/raul-alvarez/Apps/hola/www/index.html",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/FS/P7/ejercicio72.sh",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/FS/P6/ejercicio61.sh",
+		"/home/raul-alvarez/petitions.sh",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/IG/Practicas/práctica 3/user_code.cc",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/IG/Practicas/práctica 3/user_code.h",
+		"/home/raul-alvarez/HotCold/HotCold/BackEnd/save_outside_news.php",
+		"/home/raul-alvarez/HotCold/HotCold/BackEnd/save_news.php",
+		"/home/raul-alvarez/HotCold/HotCold/BackEnd/get_news.php",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/marketing/xmlparser.php",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/FS/P6/pruebasp6.sh",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/ISE/Practicas/P3/P3-RauAlvHin/P3-RauAlvHin.tex",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/IG/Practicas/practica1/practica1/vertex.h",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/IG/Practicas/practica1/practica1/practica1.cc",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/IG/Practicas/practica1/practica1/objeto.cc",
+		"/home/raul-alvarez/Dropbox/Universidad/Grado/IG/Practicas/practica1/practica1/objeto.h",
+		"/tmp/fz3temp-1/save_news.php",
+		"/var/www/html/xmlparser.php",
+		"/home/raul-alvarez/.config/sublime-text-3/Packages/User/cout.sublime-snippet",
+		"/home/raul-alvarez/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/C/Users/Raul/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"latest",
+			"Entrada",
+			"habilita",
+			");\n",
+			"RF1",
+			"Entrada",
+			"					<",
+			"100px",
+			"'hallo",
+			"mysite",
+			"obje",
+			"glTranslatef(-1.5, 0, 0);\n		cBrazo(modo);\n		",
+			"caja",
+			"2",
+			"1",
+			"false",
+			"1",
+			"draw_cubo",
+			");\n",
+			"angulopolar1",
+			"dentroprimeroctante",
+			"die",
+			"2",
+			"leer",
+			");\n",
+			"3",
+			";\n",
+			"Baricentro",
+			"x",
+			"cross_product",
+			"V0",
+			"TNormales",
+			"A",
+			"x",
+			"Vertices",
+			"P0",
+			"<<\"/\"<<",
+			"Triangulos",
+			"normalize",
+			"V0",
+			"glVertex3f",
+			"Triangulos",
+			"if ((this->Vertices[this->Vertices.size()-1].x != 0) ||  (this->Vertices[this->Vertices.size()-1].z != 0))\n	{\n		this->Vertices.resize(newsize);\n		this->Vertices[newsize-1].x = 0;\n		this->Vertices[newsize-1].y = this->Vertices[newsize-2].y;\n		this->Vertices[newsize-1].z = 0;\n		\n		newsize = this->Triangulos.size()+lados;\n		this->Triangulos.resize(newsize);\n\n		cout << lados << endl;\n\n		v1 = vertices-1;\n		v2 = v1+vertices;\n		for (int i = lados; i > 0; i--)\n		{\n			this->Triangulos[(newsize)-i].x = this->Vertices.size()-1;\n			this->Triangulos[(newsize)-i].y = v1;\n			this->Triangulos[(newsize)-i].z = v2;\n			v1 = v1+vertices;\n			v2 = (v1+vertices)%modulo;\n		}\n	}",
+			"vertices",
+			"Vertices",
+			"this->Vertices.size()",
+			";\n",
+			"cout",
+			"lados",
+			"Vertices",
+			"vertices",
+			"Vertices",
+			"vertices",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "educapp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/SublimeProjects/ig.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
