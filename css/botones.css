@@ -1,0 +1,11 @@
+.colorRojo {
+	color: white;
+	background-color: #FF1F1F;
+	border-color: #FF1F1F;
+}
+
+.colorRojo.active, .colorRojo.focus, .colorRojo:active, .colorRojo:focus, .colorRojo:hover{
+	color: white;
+	background-color: #FF0000;
+	border-color: #FF0000;
+}
