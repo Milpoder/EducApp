@@ -2,3 +2,11 @@
 	color: #000000;
 	font-weight: bold;
 }
+
+#formLogin {
+	margin-top: 50px;
+}
+
+#formRegistro {
+	margin-top: 25px;
+}
