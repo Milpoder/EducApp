@@ -27,31 +27,47 @@
 
 .colorAzul {
 	color: white;
-	background-color: #0174DF;
-	border-color: #003566;
+	background-color: #0080FF;
+	border-color: #004080;
 	opacity: 1.0;
 }
 
 .colorAzul.active, .colorAzul.focus, .colorAzul:active, .colorAzul:focus, .colorAzul:hover{
 	color: white;
-	background-color: #006ACD;
-	border-color: #002E5A;
+	background-color: #0066CD;
+	border-color: #00264D;
 	opacity: 1.0;
 }
 
 
 .colorRojo {
 	color: white;
-	background-color: #FF1F1F;
-	border-color: #800F0F;
+	background-color: #E60000;
+	border-color: #800000;
 	opacity: 1.0;
 }
 
 .colorRojo.active, .colorRojo.focus, .colorRojo:active, .colorRojo:focus, .colorRojo:hover{
 	color: white;
-	background-color: #FF1010;
-	border-color: #730E0E;
+	background-color: #B30000;
+	border-color: #4D0000;
 	opacity: 1.0;
 }
 
-	      
+.colorVerde {
+	color: white;
+	background-color: #009A00;
+	border-color: #003300;
+	opacity: 1.0;
+}
+
+.colorVerde.active, .colorVerde.focus, .colorVerde:active, .colorVerde:focus, .colorVerde:hover{
+	color: white;
+	background-color: #006600;
+	border-color: #001A00;
+	opacity: 1.0;
+}
+
+.btn {
+	font-weight: bold;
+}
