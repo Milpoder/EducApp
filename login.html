@@ -22,10 +22,12 @@
 			<div id="main">
 					<header id="header">
 						<h1>EducApp</h1>
-						<h2>Usuario</h2><input type="text" name="nombre" value="" placeholder="Nombre de Usuario">
-						<h2>Constraseña</h2><input type="text" name="contraseña" value="" placeholder="Contraseña">
-						<p> <button type="button" class="btn btn-primary btn-lg colorAzul">Acceder</button> </p>
-						<p> <button onclick="cambiar_location()" type="button" class="btn btn-primary btn-sm colorRojo">Registrarse</button> </p>
+						<div id="formLogin">
+							<h2>Usuario</h2><input type="text" name="nombre" value="" placeholder="Nombre de Usuario">
+							<h2>Constraseña</h2><input type="text" name="contraseña" value="" placeholder="Contraseña">
+							<p> <button onclick="cambiarLocationLogin1()" type="button" class="btn btn-primary btn-lg colorAzul">Acceder</button> </p>
+							<p> <button onclick="cambiarLocationLogin2()" type="button" class="btn btn-primary btn-sm colorRojo">Registrarse</button> </p>
+						</div>
 					</header>
 			</div>
 		</div>
