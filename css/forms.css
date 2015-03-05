@@ -1,4 +1,16 @@
 #header h2, #header input {
-	color: #000000;
+	color: #FFFFFF;
 	font-weight: bold;
+}
+
+#formLogin {
+	margin-top: 50px;
+}
+
+#formRegistro {
+	margin-top: 25px;
+}
+
+#formRegistro h2 {
+	margin-top: 15px;
 }
