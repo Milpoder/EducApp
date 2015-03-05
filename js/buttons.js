@@ -1,9 +1,11 @@
- function cambiar_location()
-{
-      window.location="crearcuenta.html";
+function cambiarLocationLogin1(){
+	window.location="inicio.html";
 }
 
- function cambiar_location1()
-{
-      window.location="login.html";
+function cambiarLocationLogin2(){
+	window.location="crearcuenta.html";
+}
+
+function cambiarLocationRegistro(){
+	window.location="login.html";
 }
