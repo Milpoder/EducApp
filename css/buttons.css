@@ -75,13 +75,19 @@
 /*Inicio*/
 .allScreenWidthButton{
 	width: 99.5%;
+	height: 9%;
 	margin: 0.25%;
 }
 
 .halfScreenWidthButton{
 	width: 49.5%;
+	height: 44%;
 	margin: 0.25%;
 	float: left;
+}
+
+.centeredButton{
+	text-align: center;
 }
 
 /*Temporal*/
@@ -91,12 +97,7 @@ html,body{
   background-color: #488CCD;
 }
 
-.centeredButton{
-	text-align: center;
-}
-
 .all{
-	background-color: red;
 	height: 100%;
 	width: 100%;
 }
