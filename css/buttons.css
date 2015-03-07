@@ -1,37 +1,37 @@
 /* Buttons */
-		.Button {
-		-moz-box-shadow:inset 0px 0px 15px 3px #23395e;
-		-webkit-box-shadow:inset 0px 0px 15px 3px #23395e;
-		box-shadow:inset 0px 0px 15px 3px #23395e;
-		background-color:transparent;
-		-moz-border-radius:17px;
-		-webkit-border-radius:17px;
-		border-radius:17px;
-		border:1px solid #1f2f47;
-		display:inline-block;
-		cursor:pointer;
-		color:#ffffff;
-		font-family:arial;
-		font-size:15px;
-		padding:6px 13px;
-		text-decoration:none;
-		text-shadow:0px 1px 0px #263666;
-	}
-	.Button:hover {
-		background-color:green;
-	}
-	.Button:active {
-		font-weight: bold;
-		position:relative;
-	}
+.Button {
+	-moz-box-shadow:inset 0px 0px 15px 3px #23395e;
+	-webkit-box-shadow:inset 0px 0px 15px 3px #23395e;
+	box-shadow:inset 0px 0px 15px 3px #23395e;
+	background-color:transparent;
+	-moz-border-radius:17px;
+	-webkit-border-radius:17px;
+	border-radius:17px;
+	border:1px solid #1f2f47;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	padding:6px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.Button:hover {
+	background-color:green;
+}
+.Button:active {
+	font-weight: bold;
+	position:relative;
+}
 
+/*Colors*/
 .colorAzul {
 	color: white;
 	background-color: #0080FF;
 	border-color: #004080;
 	opacity: 1.0;
 }
-
 .colorAzul.active, .colorAzul.focus, .colorAzul:active, .colorAzul:focus, .colorAzul:hover{
 	color: white;
 	background-color: #0066CD;
@@ -39,14 +39,12 @@
 	opacity: 1.0;
 }
 
-
 .colorRojo {
 	color: white;
 	background-color: #E60000;
 	border-color: #800000;
 	opacity: 1.0;
 }
-
 .colorRojo.active, .colorRojo.focus, .colorRojo:active, .colorRojo:focus, .colorRojo:hover{
 	color: white;
 	background-color: #B30000;
@@ -60,7 +58,6 @@
 	border-color: #003300;
 	opacity: 1.0;
 }
-
 .colorVerde.active, .colorVerde.focus, .colorVerde:active, .colorVerde:focus, .colorVerde:hover{
 	color: white;
 	background-color: #006600;
@@ -68,6 +65,7 @@
 	opacity: 1.0;
 }
 
+/*Text button*/
 .btn {
 	font-weight: bold;
 }
@@ -76,15 +74,12 @@
 .allScreenWidthButton{
 	width: 97.5%;
 	height: 9%;
-	margin-top: 1.5%;
-	margin-left: 1.5%;
 }
 
 .halfScreenWidthButton{
 	width: 48%;
-	height: 44.5%;
-	margin-top: 0.5%;
-	margin-left: 1.5%;
+	height: 42.5%;
+	margin-top: 1.75%;
 	float: left;
 }
 
@@ -92,15 +87,7 @@
 	text-align: center;
 }
 
-/*Temporal*/
-html,body{
-  height:100%;
-  width:100%;
-  background-color: #488CCD;
-}
-
-.all{
-	height: 100%;
-	width: 100%;
-	margin: 0.5%;
+/*Inicio: Temporal*/
+#segundoBoton{
+	margin-left: 1.5%;
 }
