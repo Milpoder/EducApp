@@ -1,29 +1,29 @@
 /* Buttons */
-		.Button {
-		-moz-box-shadow:inset 0px 0px 15px 3px #23395e;
-		-webkit-box-shadow:inset 0px 0px 15px 3px #23395e;
-		box-shadow:inset 0px 0px 15px 3px #23395e;
-		background-color:transparent;
-		-moz-border-radius:17px;
-		-webkit-border-radius:17px;
-		border-radius:17px;
-		border:1px solid #1f2f47;
-		display:inline-block;
-		cursor:pointer;
-		color:#ffffff;
-		font-family:arial;
-		font-size:15px;
-		padding:6px 13px;
-		text-decoration:none;
-		text-shadow:0px 1px 0px #263666;
-	}
-	.Button:hover {
-		background-color:green;
-	}
-	.Button:active {
-		font-weight: bold;
-		position:relative;
-	}
+.Button {
+	-moz-box-shadow:inset 0px 0px 15px 3px #23395e;
+	-webkit-box-shadow:inset 0px 0px 15px 3px #23395e;
+	box-shadow:inset 0px 0px 15px 3px #23395e;
+	background-color:transparent;
+	-moz-border-radius:17px;
+	-webkit-border-radius:17px;
+	border-radius:17px;
+	border:1px solid #1f2f47;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	padding:6px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.Button:hover {
+	background-color:green;
+}
+.Button:active {
+	font-weight: bold;
+	position:relative;
+}
 
 .colorAzul {
 	color: white;
@@ -31,7 +31,6 @@
 	border-color: #004080;
 	opacity: 1.0;
 }
-
 .colorAzul.active, .colorAzul.focus, .colorAzul:active, .colorAzul:focus, .colorAzul:hover{
 	color: white;
 	background-color: #0066CD;
@@ -46,7 +45,6 @@
 	border-color: #800000;
 	opacity: 1.0;
 }
-
 .colorRojo.active, .colorRojo.focus, .colorRojo:active, .colorRojo:focus, .colorRojo:hover{
 	color: white;
 	background-color: #B30000;
@@ -60,7 +58,6 @@
 	border-color: #003300;
 	opacity: 1.0;
 }
-
 .colorVerde.active, .colorVerde.focus, .colorVerde:active, .colorVerde:focus, .colorVerde:hover{
 	color: white;
 	background-color: #006600;
@@ -70,4 +67,21 @@
 
 .btn {
 	font-weight: bold;
+}
+
+/*Inicio*/
+.allScreenWidthButton{
+	width: 100%;
+	margin: 0;
+	background-color: red;
+}
+
+.halfScreenWidthButton{
+	width: 50%;
+	background-color: green;
+	float: left;
+}
+
+#dos {
+	background-color: yellow;
 }
