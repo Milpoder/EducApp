@@ -74,22 +74,16 @@
 
 /*Inicio*/
 .allScreenWidthButton{
-	width: 100%;
-	margin: 0;
-	background-color: blue;
+	width: 99.5%;
+	margin: 0.25%
 }
 
 .halfScreenWidthButton{
-	width: 50%;
-	background-color: green;
+	width: 49.5%;
 	float: left;
+	margin: 0.25%
 }
 
 .centeredButton{
 	text-align: center;
-}
-
-/*Temporal*/
-#dos {
-	background-color: yellow;
 }
