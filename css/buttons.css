@@ -74,15 +74,15 @@
 
 /*Inicio*/
 .allScreenWidthButton{
-	width: 99.5%;
+	width: 98.5%;
 	height: 9%;
-	margin: 0.25%;
+	margin: 0.5%;
 }
 
 .halfScreenWidthButton{
-	width: 49.5%;
-	height: 44%;
-	margin: 0.25%;
+	width: 48.75%;
+	height: 44.5%;
+	margin: 0.5%;
 	float: left;
 }
 
@@ -100,4 +100,5 @@ html,body{
 .all{
 	height: 100%;
 	width: 100%;
+	margin: 0.5%;
 }
