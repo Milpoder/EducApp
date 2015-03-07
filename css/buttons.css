@@ -76,7 +76,7 @@
 .allScreenWidthButton{
 	width: 100%;
 	margin: 0;
-	background-color: red;
+	background-color: blue;
 }
 
 .halfScreenWidthButton{
@@ -85,6 +85,11 @@
 	float: left;
 }
 
+.centeredButton{
+	text-align: center;
+}
+
+/*Temporal*/
 #dos {
 	background-color: yellow;
 }
