@@ -71,3 +71,20 @@
 .btn {
 	font-weight: bold;
 }
+
+/*Inicio*/
+.allScreenWidthButton{
+	width: 100%;
+	margin: 0;
+	background-color: red;
+}
+
+.halfScreenWidthButton{
+	width: 50%;
+	background-color: green;
+	float: left;
+}
+
+#dos {
+	background-color: yellow;
+}
